@@ -1,5 +1,3 @@
-# README
-
 This script takes a list of characters from a novel or other manuscript, reads
 the text file of that manuscript, and prints a Seaborn
 univariate chart (distribution and rug chart) for the incidences of each character's name in the text.
